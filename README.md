@@ -63,9 +63,3 @@ This project was built for hands-on learning with:
 
 Feel free to open an issue or contribute!
 
-```
-
----
-
-Would you like me to push this to your repo or help you style it further (e.g., badges, screenshots)?
-```
